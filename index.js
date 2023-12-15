@@ -135,3 +135,4 @@ Pantalla.dimensiones = "1920x1080";
 Led.encendido = !Led.encendido;
 
 //26. - Dado un objeto de nombre Movil modifica el valor de la propiedad temperatura por el valor 20º
+Movil.temperatura = "20º";
