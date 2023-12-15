@@ -116,7 +116,7 @@ codError = O_Error.codigo;
 integrantes = Grupo.integrantes;
 
 //20. - Dado un objeto de nombre Impresora obtén el valor de la propiedad objeto tinta{ rojo, verde, azul } guardándolo en la variable nivelesTinta
-
+nivelesTinta = Impresora.tinta;
 
 //21. - Dado un objeto de nombre Pantalla obtén el valor de la propiedad array bidimensional pixeles guardándolo en la variable pixeles
 
