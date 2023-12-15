@@ -129,7 +129,7 @@ especificaciones = Movil.especificaciones;
 Grupo.numIntegrantes = 5;
 
 //24. - Dado un objeto de nombre Pantalla modifica el valor de la propiedad dimensiones por el valor 1920x1080
-
+Pantalla.dimensiones = "1920x1080";
 
 //25. - Dado un objeto de nombre Led modifica el valor de la propiedad encendido por el valor false si vale true y true si vale false
 
