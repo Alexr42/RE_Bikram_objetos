@@ -54,7 +54,7 @@ const RGB = [Led.rojo, Led.verde, Led.azul];
 Portatil.modelo = "P345";
 
 //10. - Dado un objeto de nombre Concierto añade el valor Guns N' Roses a la propiedad cartelera
-
+Concierto.cartelera.push("Guns N' Roses");
 
 //11. - Dado un objeto de nombre Concierto modifica el valor de la propiedad fecha por el valor new Date()(fecha de hoy)
 
