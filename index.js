@@ -109,9 +109,8 @@ const Pais = {
 };
 
 //LECTURA DE PROPIEDADES
-
 //18. - Dado un objeto de nombre O_Error obtén el valor de la propiedad codigo guardándolo en la variable codError
-
+codError = O_Error.codigo;
 
 //19. - Dado un objeto de nombre Grupo obtén el valor de la propiedad array integrantes guardándolo en la variable integrantes
 
