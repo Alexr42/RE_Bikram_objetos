@@ -132,6 +132,6 @@ Grupo.numIntegrantes = 5;
 Pantalla.dimensiones = "1920x1080";
 
 //25. - Dado un objeto de nombre Led modifica el valor de la propiedad encendido por el valor false si vale true y true si vale false
-
+Led.encendido = !Led.encendido;
 
 //26. - Dado un objeto de nombre Movil modifica el valor de la propiedad temperatura por el valor 20º
