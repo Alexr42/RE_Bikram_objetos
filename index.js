@@ -47,7 +47,7 @@ const marcaPortatil2 = Portatil["marca"];
 const grupos = Concierto.grupos;
 
 //8. - Dado un objeto de nombre Led obtén el valor de las propiedades rojo, verde y azul guardándolo en la variable array RGB[Rojo, Verde, Azul]
-
+const RGB = [Led.rojo, Led.verde, Led.azul];
 
 //MODIFICACION DE PROPIEDADES
 //9. - Dado un objeto de nombre Portatil modifica el valor de la propiedad modelo por el valor P345
