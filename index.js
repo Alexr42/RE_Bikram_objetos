@@ -51,7 +51,7 @@ const RGB = [Led.rojo, Led.verde, Led.azul];
 
 //MODIFICACION DE PROPIEDADES
 //9. - Dado un objeto de nombre Portatil modifica el valor de la propiedad modelo por el valor P345
-
+Portatil.modelo = "P345";
 
 //10. - Dado un objeto de nombre Concierto añade el valor Guns N' Roses a la propiedad cartelera
 
