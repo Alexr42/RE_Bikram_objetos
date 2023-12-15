@@ -113,7 +113,7 @@ const Pais = {
 codError = O_Error.codigo;
 
 //19. - Dado un objeto de nombre Grupo obtén el valor de la propiedad array integrantes guardándolo en la variable integrantes
-
+integrantes = Grupo.integrantes;
 
 //20. - Dado un objeto de nombre Impresora obtén el valor de la propiedad objeto tinta{ rojo, verde, azul } guardándolo en la variable nivelesTinta
 
