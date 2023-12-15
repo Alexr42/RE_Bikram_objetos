@@ -122,7 +122,7 @@ nivelesTinta = Impresora.tinta;
 pixeles = Pantalla.pixeles;
 
 //22. - Dado un objeto de nombre Movil obtén el valor de la propiedad especificaciones con["especificaciones"] guardándolo en la variable especificaciones
-
+especificaciones = Movil.especificaciones
 
 //MODIFICACION DE PROPIEDADES
 
