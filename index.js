@@ -19,9 +19,21 @@ const Casa = {
 const FullStackDeveloper = {
     lenguajes: ["HTML5", "JS", "CSS3"],
     proyectos: ["mi primera web", "funciones funcionales"]
-}
+};
 
 //4. - Crea un objeto de nombre Perro que tenga las propiedades: nombre, raza, color, edad, función ladrar(imprime por consola un ladrido), función popo(devuelve el valor: Math.random() * 3)
+const Perro = {
+    nombre: "Chorbo",
+    raza: "Bulldog",
+    color: "Negro",
+    edad: "5",
+    ladrar: () => {
+        console.log("¡Guau!");
+    },
+    popo: () => {
+        return Math.random() * 3;
+    }
+};
 
 
 //LECTURA DE PROPIEDADES
