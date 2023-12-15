@@ -97,7 +97,9 @@ const Avion = {
 };
 
 //16. - Crea un objeto de nombre Paquete que tenga las propiedades: array contenido con todos los objetos que contenga el paquete
-
+const Paquete = {
+    contenido: ["pc", "tv", "smartphone"]
+};
 
 //17. - Crea un objeto de nombre Pais que tenga las propiedades: numHabitantes, continente, gentilicio
 
