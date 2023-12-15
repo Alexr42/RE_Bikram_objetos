@@ -41,7 +41,7 @@ const Perro = {
 const marcaPortatil = Portatil.marca;
 
 //6. - Dado un objeto de nombre Portatil obtén el valor de la propiedad marca con["marca"] guardándolo en la variable marcaPortatil2
-
+const marcaPortatil2 = Portatil["marca"];
 
 //7. - Dado un objeto de nombre Concierto obtén el valor de la propiedad array grupos guardándolo en la variable grupos
 
