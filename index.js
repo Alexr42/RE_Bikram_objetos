@@ -83,7 +83,18 @@ const Persona = {
 };
 
 //15. - Crea un objeto de nombre Avion que tenga las propiedades: numPasajeros, función despegar(imprime por consola 'despegando'), función volar(imprime por consola llegando al destino), función aterrizar(imprime por consola 'aterrizando'
-
+const Avion = {
+    numPasajeros: "130",
+    despegar: () => {
+        console.log("despegando");
+    },
+    volar: () => {
+        console.log("llegando al destino");
+    },
+    aterrizar: () => {
+        console.log("aterrizando");
+    }
+};
 
 //16. - Crea un objeto de nombre Paquete que tenga las propiedades: array contenido con todos los objetos que contenga el paquete
 
