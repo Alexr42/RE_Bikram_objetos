@@ -38,7 +38,7 @@ const Perro = {
 
 //LECTURA DE PROPIEDADES
 //5. - Dado un objeto de nombre Portatil obtén el valor de la propiedad marca con.marca guardándolo en la variable marcaPortatil
-
+const marcaPortatil = Portatil.marca;
 
 //6. - Dado un objeto de nombre Portatil obtén el valor de la propiedad marca con["marca"] guardándolo en la variable marcaPortatil2
 
