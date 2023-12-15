@@ -57,7 +57,7 @@ Portatil.modelo = "P345";
 Concierto.cartelera.push("Guns N' Roses");
 
 //11. - Dado un objeto de nombre Concierto modifica el valor de la propiedad fecha por el valor new Date()(fecha de hoy)
-
+Concierto.fecha = new Date("fecha de hoy");
 
 //12. - Dado un objeto de nombre Impresora modifica el valor de la propiedad imprimiendo por el valor objeto con propiedades: nombreArchivo, copias, numPaginas
 
