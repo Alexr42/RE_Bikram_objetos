@@ -60,7 +60,11 @@ Concierto.cartelera.push("Guns N' Roses");
 Concierto.fecha = new Date("fecha de hoy");
 
 //12. - Dado un objeto de nombre Impresora modifica el valor de la propiedad imprimiendo por el valor objeto con propiedades: nombreArchivo, copias, numPaginas
-
+Impresora.imprimiendo = {
+    nombreArchivo: "algo",
+    copias: "6",
+    numPaginas: "300"
+};
 
 //OBJETOS
 //DECLARACION
