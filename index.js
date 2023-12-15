@@ -119,7 +119,7 @@ integrantes = Grupo.integrantes;
 nivelesTinta = Impresora.tinta;
 
 //21. - Dado un objeto de nombre Pantalla obtén el valor de la propiedad array bidimensional pixeles guardándolo en la variable pixeles
-
+pixeles = Pantalla.pixeles;
 
 //22. - Dado un objeto de nombre Movil obtén el valor de la propiedad especificaciones con["especificaciones"] guardándolo en la variable especificaciones
 
