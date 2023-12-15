@@ -16,7 +16,10 @@ const Casa = {
 };
 
 //3. - Crea un objeto de nombre FullStackDeveloper que tenga las propiedades: array lenguajes, array proyectos
-
+const FullStackDeveloper = {
+    lenguajes: ["HTML5", "JS", "CSS3"],
+    proyectos: ["mi primera web", "funciones funcionales"]
+}
 
 //4. - Crea un objeto de nombre Perro que tenga las propiedades: nombre, raza, color, edad, función ladrar(imprime por consola un ladrido), función popo(devuelve el valor: Math.random() * 3)
 
