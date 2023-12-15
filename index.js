@@ -70,13 +70,17 @@ Impresora.imprimiendo = {
 //DECLARACION
 
 //13. - Crea un objeto de nombre Noticia que tenga las propiedades: titular, cuerpo
-let Noticia = {
+const Noticia = {
     titular: "ATENCION! ATENCION!",
     cuerpo: "un objeto de nombre Noticia sobrevuela las propiedades",
 };
 
 //14. - Crea un objeto de nombre Persona que tenga las propiedades: nombre, apellidos, edad
-
+const Persona = {
+    nombre: "Ramon",
+    apellidos: "Periquez",
+    edad: "37"
+};
 
 //15. - Crea un objeto de nombre Avion que tenga las propiedades: numPasajeros, función despegar(imprime por consola 'despegando'), función volar(imprime por consola llegando al destino), función aterrizar(imprime por consola 'aterrizando'
 
