@@ -70,7 +70,10 @@ Impresora.imprimiendo = {
 //DECLARACION
 
 //13. - Crea un objeto de nombre Noticia que tenga las propiedades: titular, cuerpo
-
+let Noticia = {
+    titular: "ATENCION! ATENCION!",
+    cuerpo: "un objeto de nombre Noticia sobrevuela las propiedades",
+};
 
 //14. - Crea un objeto de nombre Persona que tenga las propiedades: nombre, apellidos, edad
 
