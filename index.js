@@ -44,7 +44,7 @@ const marcaPortatil = Portatil.marca;
 const marcaPortatil2 = Portatil["marca"];
 
 //7. - Dado un objeto de nombre Concierto obtén el valor de la propiedad array grupos guardándolo en la variable grupos
-
+const grupos = Concierto.grupos;
 
 //8. - Dado un objeto de nombre Led obtén el valor de las propiedades rojo, verde y azul guardándolo en la variable array RGB[Rojo, Verde, Azul]
 
