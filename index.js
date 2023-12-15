@@ -8,7 +8,12 @@ const Coche = {
 };
 
 //2. - Crea un objeto de nombre Casa que tenga las propiedades: codPostal, calle, portal, piso
-
+const Casa = {
+    codPostal: "123456",
+    calle: "San Tomas",
+    portal: "15",
+    piso: "Segundo B"
+};
 
 //3. - Crea un objeto de nombre FullStackDeveloper que tenga las propiedades: array lenguajes, array proyectos
 
