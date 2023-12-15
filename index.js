@@ -102,7 +102,11 @@ const Paquete = {
 };
 
 //17. - Crea un objeto de nombre Pais que tenga las propiedades: numHabitantes, continente, gentilicio
-
+const Pais = {
+    numHabitantes: "1233333",
+    continente: "Oceania",
+    gentilicio: "Oceanos"
+};
 
 //LECTURA DE PROPIEDADES
 
